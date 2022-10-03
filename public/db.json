@@ -1,0 +1,187 @@
+[
+    {
+      "id": 1,
+      "name": "Leonel Messi",
+      "age": 35,
+      "price": 4500000,
+      "country": "Argentina",
+      "club": "Paris Saint Germain",
+      "position": "Forward",
+      "image": "https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/08/02/3191624-65387748-2560-1440.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Critiano Ronaldo",
+      "age": 36,
+      "price": 4000000,
+      "country": "Portugal",
+      "club": "Manchester United",
+      "position": "Forward",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/627bd291633f3fbbcda36428/0x0.jpg?format=jpg&crop=2057,2059,x918,y85,safe&height=416&width=416&fit=bounds"
+    },
+    {
+      "id": 3,
+      "name": "Neymar",
+      "age": 30,
+      "price": 3500000,
+      "country": "Brazil",
+      "club": "Paris Saint Germain",
+      "position": "Forward",
+      "image": "https://static01.nyt.com/images/2020/09/02/sports/02neymar01/02neymar01-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kylian Mbappe",
+      "age": 23,
+      "price": 3000000,
+      "country": "France",
+      "club": "Paris Saint Germain",
+      "position": "Forward",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8fHsQbGfkSijZjy778P0RX_mENAg2wt66ALvFPVKVDdRjaw7STcEy6wAMhNmsjjGTZI&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Mohamed Salah",
+      "age": 29,
+      "price": 2500000,
+      "country": "Egypt",
+      "club": "Liverpool",
+      "position": "Forward",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/02/slah.webpstripall.jpg?strip=all&quality=100&w=960&h=755&crop=1"
+    },
+    {
+      "id": 6,
+      "name": "kavin de Bruyne",
+      "age": 30,
+      "price": 2000000,
+      "country": "Belgium",
+      "club": "Manchester City",
+      "position": "Midfielder",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/sport/football/football-news/article25028577.ece/ALTERNATES/s1200c/0_GettyImages-1423724077jp.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Paul Pogba",
+      "age": 28,
+      "price": 1500000,
+      "country": "France",
+      "club": "Manchester United",
+      "position": "Midfielder",
+      "image": "https://icdn.strettynews.com/wp-content/uploads/2021/09/1006859485.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Luka Modric",
+      "age": 36,
+      "price": 1000000,
+      "country": "Croatia",
+      "club": "Real Madrid",
+      "position": "Midfielder",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MFTWnQQx9ziQcCAiQHdoAr4JtaHHwbq4Rw&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "Sergio Ramos",
+      "age": 35,
+      "price": 500000,
+      "country": "Spain",
+      "club": "Paris Saint Germain",
+      "position": "Defender",
+      "image": "https://s.france24.com/media/display/c50b68c0-dfcf-11eb-9db4-005056a97e36/w:1280/p:4x3/000_9DP6QV.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Virgil van Dijk",
+      "age": 30,
+      "price": 450000,
+      "country": "Netherlands",
+      "club": "Liverpool",
+      "position": "Defender",
+      "image": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkxNzA1NDk4ODQyNTcyNDUx/imago1013903145h.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Nicolas Otamendi",
+      "age": 30,
+      "price": 400000,
+      "country": "Argentina",
+      "club": "Manchester City",
+      "position": "Defender",
+      "image": "https://www1.pictures.zimbio.com/gi/Argentina+v+Ecuador+Quarterfinal+Copa+America+Br8p5YNK3urx.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Thiago Silva",
+      "age": 36,
+      "price": 350000,
+      "country": "Brazil",
+      "club": "Chelsea",
+      "position": "Defender",
+      "image": "https://cdn.vox-cdn.com/thumbor/xihh6emazUWFR8vh_yXJrMuNXTI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23265329/1372214610.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Alisson Becker",
+      "age": 29,
+      "price": 300000,
+      "country": "Brazil",
+      "club": "Liverpool",
+      "position": "Goalkeeper",
+      "image": "https://cdn.vox-cdn.com/thumbor/NkklmCvz-XNjgFAOaPZqBa9FApk=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23990929/1242842357.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Ederson",
+      "age": 28,
+      "price": 250000,
+      "country": "Brazil",
+      "club": "Manchester City",
+      "position": "Goalkeeper",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article16512146.ece/ALTERNATES/s1200c/0_GettyImages-1138318370.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Jan Oblak",
+      "age": 30,
+      "price": 200000,
+      "country": "Slovenia",
+      "club": "Atletico Madrid",
+      "position": "Goalkeeper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXseOreYx7t-oqNHAQlzCUOTLWmCqOIt6XQ&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "name": "Marc Andre ter Stegen",
+      "age": 30,
+      "price": 150000,
+      "country": "Germany",
+      "club": "Barcelona",
+      "position": "Goalkeeper",
+      "image": "https://static.independent.co.uk/2021/11/05/10/9d059b045f9814087b62938506298bb6Y29udGVudHNlYXJjaGFwaSwxNjM2MTc1MDc5-2.38975721.jpg?quality=75&width=1200&auto=webp"
+    },
+    {
+      "id": 17,
+      "name": "Thibout Courtois",
+      "age": 30,
+      "price": 100000,
+      "country": "France",
+      "club": "Real Madrid",
+      "position": "Goalkeeper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8A-aC00kSltupWeV6PB2LHPpidW5K2elXg&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "name": "Keylor Navas",
+      "age": 35,
+      "price": 50000,
+      "country": "Costa Rica",
+      "club": "Paris Saint Germain",
+      "position": "Goalkeeper",
+      "image": "https://assets-fr.imgfoot.com/media/cache/1200x1200/keylor-navas-cover.jpg"
+    }
+  ]
+
+
+
+
+

@@ -1,0 +1,15 @@
+.player-card {
+  width: 18rem;
+  transition: all 0.3s ease-in-out;
+}
+.player-card img {
+  height: 200px;
+}
+.card-body h5 {
+  font-size: 19px;
+  font-weight: 600;
+}
+.player-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
